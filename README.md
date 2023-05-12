@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @joaquincernik
-- 👀 I’m 18 years old and I am interested in looking for any experience in all this word of coding that I love it
-- 🌱 I’m currently learning coding at Digital House, Full Stack Developer
+- 👀 I’m 20 years old and I am interested in looking for any experience in all this word of coding that I love it
+- 🌱 Full Stack Developer
+- Currently studying Informatic Engineering at second year 
 - 📫 How to reach me: joaquincernik@gmail.com
 
 <!---
