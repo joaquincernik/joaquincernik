@@ -3,6 +3,7 @@
 - 🌱 Full Stack Developer
 - Currently studying Informatic Engineering at second year 
 - 📫 How to reach me: joaquincernik@gmail.com
+- My work: http://webserver.rossogustavo.com.ar:8443/
 
 <!---
 joaquincernik/joaquincernik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
