@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @joaquincernik
-- 👀 I’m 20 years old and I am interested in looking for any experience in all this word of coding that I love it
 - 🌱 Full Stack Developer
-- Currently studying Informatic Engineering at second year 
+- Currently studying Informatic Engineering at third year 
 - 📫 How to reach me: joaquincernik@gmail.com
 - My work: http://webserver.rossogustavo.com.ar:8443/
 
